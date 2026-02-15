@@ -7,7 +7,7 @@ export function Navbar() {
           className="group flex items-center gap-3 text-xs font-medium tracking-tight text-foreground"
         >
           <span className="flex h-8 w-8 items-center justify-center rounded-full bg-accent/10 text-[0.7rem] font-semibold text-accent ring-1 ring-accent/20 transition group-hover:bg-accent group-hover:text-white">
-            LC
+            LF
           </span>
           <span className="hidden flex-col text-[0.7rem] leading-tight text-slate-300 sm:flex">
             <span className="font-semibold">Desenvolvedor Front End</span>

@@ -14,7 +14,7 @@ export function HeroSection() {
       <h1 className="text-balance text-3xl font-semibold tracking-tight text-foreground sm:text-4xl md:text-5xl">
         Olá, eu sou{' '}
         <span className="text-accent">
-          seu nome
+          Luan Ferreira
         </span>
         <span className="mt-2 block text-sm font-normal text-slate-300 sm:text-base">
           Desenvolvedor Front End focado em interfaces modernas, acessíveis e performáticas.
