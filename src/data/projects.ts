@@ -29,5 +29,15 @@ export const projects: Project[] = [
     demoUrl: 'https://organic-marketplace-hazel.vercel.app/',
     repoUrl: 'https://github.com/luanfcampos/organic-marketplace'
   },
+   {
+    id: 'ecclesia',
+    title: 'Ecclesia Flow',
+    image: '/ecclesiaflow.png',
+    description:
+      'Uma Landing Page moderna, responsiva e de alta performance para um SaaS de gestão de igrejas, desenvolvida com foco no público brasileiro.',
+    techs: ['AOS (Animate On Scroll)', 'Alpine.js', 'Vite,', 'Tailwind CSS'],
+    demoUrl: 'https://luanfcampos.github.io/EcclesiaFlowLP/',
+    repoUrl: 'https://github.com/luanfcampos/EcclesiaFlowLP'
+  },
 ]
 
