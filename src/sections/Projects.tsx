@@ -22,7 +22,7 @@ export function ProjectsSection() {
             key={project.id}
             className="flex flex-col justify-between gap-3 rounded-xl border border-white/5 bg-black/40 p-4 text-left shadow-sm transition hover:border-accent/60 hover:shadow-[0_0_25px_rgba(99,102,241,0.25)]"
           >
-            <img className="h-64 rounded-2xl border border-white/10" src={project.image} alt="" />
+            <img className="w-full rounded-2xl border border-white/10 object-cover" src={project.image} alt="" />
             <div className="space-y-2">
               <h3 className="text-sm font-semibold tracking-tight text-foreground">
                 {project.title}
