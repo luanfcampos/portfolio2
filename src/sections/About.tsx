@@ -9,9 +9,10 @@ export function AboutSection() {
           Sobre
         </h2>
         <p className="max-w-2xl text-sm text-slate-300">
-          Aqui eu vou falar com mais detalhes sobre a minha trajetória, as tecnologias com que já
-          trabalhei e o tipo de experiência que eu entrego como desenvolvedor Front End. Vou
-          preencher esta área na próxima fase.
+          Sou desenvolvedor front-end com experiência construindo interfaces web modernas e responsivas, com foco em performance, acessibilidade e escalabilidade.
+        </p>
+        <p className="max-w-2xl text-sm text-slate-300">
+          Tenho domínio de tecnologias como React, Next.js, TypeScript e Tailwind CSS, além de experiência com Git, Figma, integração com APIs REST e boas práticas de SEO técnico.
         </p>
       </div>
     </section>

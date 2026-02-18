@@ -78,10 +78,6 @@ export function ContactSection() {
             >
               Enviar mensagem
             </button>
-            <p className="text-[0.65rem] text-slate-500">
-              Ao enviar, eu abro o seu cliente de e-mail já com o assunto e a mensagem preenchidos.
-              Depois podemos evoluir para um envio mais robusto com backend ou serviço de e-mail.
-            </p>
           </form>
           <div className="space-y-3 rounded-xl border border-dashed border-white/15 bg-black/40 p-4">
             <h3 className="text-[0.8rem] font-semibold text-slate-200">Redes & contato direto</h3>
